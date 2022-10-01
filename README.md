@@ -25,7 +25,7 @@ A list of technologies used within the project:
 * [Vite](https://vitejs.dev): Version ^2.6.4
 
  ## Installation
-  You can find it here: https://animated-quokka-9d24f3.netlify.app
+  Theres no installation, you can find it here: https://animated-quokka-9d24f3.netlify.app
   
   
   ## Collaboration
