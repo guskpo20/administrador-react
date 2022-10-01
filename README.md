@@ -20,7 +20,6 @@ Web application that allows us to keep track of animals treated in a veterinary.
 ## Technologies
 ***
 A list of technologies used within the project:
-* [HTML](https://example.com): 
 * [TailwindCSS](https://example.com): Version ^2.2.19
 * [ReactJS](https://example.com): Version ^17.0.0
 * [Vite](https://example.com): Version ^2.6.4
