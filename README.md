@@ -20,10 +20,10 @@ Web application that allows us to keep track of animals treated in a veterinary.
 ## Technologies
 ***
 A list of technologies used within the project:
-* [HTML](https://example.com): Version 12.3 
-* [TailwindCSS](https://example.com): Version 2.34
-* [ReactJS](https://example.com): Version 1234
-* [Vite](https://example.com): Version 1234
+* [HTML](https://example.com): 
+* [TailwindCSS](https://example.com): Version ^2.2.19
+* [ReactJS](https://example.com): Version ^17.0.0
+* [Vite](https://example.com): Version ^2.6.4
 
  ## Installation
   You can find it here: https://animated-quokka-9d24f3.netlify.app
