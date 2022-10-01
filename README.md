@@ -14,6 +14,9 @@
  ## General Info
 ***
 Web application that allows us to keep track of animals treated in a veterinary. The project is part of my first steps with React and is super scalable. From connecting it to a database (for now it uses localStorage), to turning it into an administrator for any item.
+![](imgReadme/mainApp.jpg)
+![](imgReadme/addPatient.jpg)
+![](imgReadme/addedPatient.jpg)
 
 
 
