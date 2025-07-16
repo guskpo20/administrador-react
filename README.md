@@ -13,7 +13,7 @@
  
  ## General Info
 ***
-Web application that allows us to keep track of animals treated in a veterinary. The project is part of my first steps with React and is super scalable. From connecting it to a database (for now it uses localStorage), to turning it into an administrator for any item.
+Web application that allows us to keep track of animals treated in a veterinary. This project is part of my first steps with React and is very scalable. From connecting it to a database (currently using localStorage) to making it a manager for any element.
 
 ![mainApp](https://user-images.githubusercontent.com/75509324/193417306-9ac947fe-bdb9-4286-928d-7991a0feaff9.JPG)
 ![addPatient](https://user-images.githubusercontent.com/75509324/193417309-6d3a58f1-22ac-4380-802e-c3b9512d7c6a.JPG)
